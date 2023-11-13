@@ -1,0 +1,37 @@
+.bd {
+    border: 3px solid black;
+}
+
+.img {
+    width: 220px;
+    height: 205px;
+}
+
+.h {
+    min-height: 550px;
+}
+
+.h1 {
+    min-height: 400px;
+}
+
+label {
+     max-width: 280px;
+     width:100%;
+     display: inline-block;
+     font-size:x-large ;
+}
+ input,select{
+    font-size:large;
+ }
+.bg {
+    background-color: #2c3e50;
+}
+
+.bg-2 {
+    background-color: #bdc3c7;
+}
+
+.bg-3 {
+    background-color: white;
+}
